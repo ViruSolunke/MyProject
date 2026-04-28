@@ -30,7 +30,9 @@ git config --global user.email
 
 "someone@email.com"
 
-git config --list
+git config --list :-
+
+The git config --list command is used to display all the configuration settings Git can find in your environment.
 
 2) git clone <--File Link--> :-
 
